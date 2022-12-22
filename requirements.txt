@@ -4,6 +4,5 @@ altair
 matplotlib
 Image
 numpy
-plotly
-io 
+plotly 
 time
