@@ -5,4 +5,3 @@ matplotlib
 Image
 numpy
 plotly 
-time
