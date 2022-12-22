@@ -1,7 +1,12 @@
 streamlit
 pandas
 altair
-matplotlib
+matplotlib.pyplot
 Image
 numpy
-plotly 
+plotly
+cv2
+st_aggrid
+plotly.express
+io
+time
