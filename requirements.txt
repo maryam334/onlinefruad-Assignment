@@ -4,7 +4,6 @@ altair
 matplotlib
 Image
 numpy
-st_aggrid
 plotly
 io 
 time
