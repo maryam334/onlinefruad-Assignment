@@ -4,7 +4,6 @@ altair
 matplotlib
 Image
 numpy
-cv2
 AgGrid
 plotly
 io 
